@@ -1,8 +1,13 @@
 {
   "version": "4.0",
   "datasetReference": {
-    "byPath": {
-      "path": "../Empty Model.SemanticModel"
+    "byConnection": {
+      "connectionString": "Data Source=\"powerbi://api.powerbi.com/v1.0/myorg/Sales Analytics\";Initial Catalog=\"Retail Sales Analytics No RLS\";Integrated Security=ClaimsToken",
+      "pbiServiceModelId": null,
+      "pbiModelVirtualServerName": "sobe_wowvirtualserver",
+      "pbiModelDatabaseName": "361ae786-2896-40ea-b7f6-1abb2301c3c2",
+      "name": "EntityDataSource",
+      "connectionType": "pbiServiceXmlaStyleLive"
     }
   }
 }
